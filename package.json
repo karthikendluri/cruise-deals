@@ -1,0 +1,15 @@
+{
+  "name": "royal-caribbean-cruise-deals",
+  "version": "1.0.0",
+  "description": "Royal Caribbean Cruise Deals - Icon of the Seas & More",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
